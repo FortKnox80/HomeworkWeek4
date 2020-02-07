@@ -1,5 +1,6 @@
 package menu;
 
+//A class for all of the values that each menu item will have
 public class MenuItems {
 	String name;
 	String description;
